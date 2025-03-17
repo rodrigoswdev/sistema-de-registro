@@ -1,6 +1,6 @@
 <h1>Sistema de Informacion</h1>
 
-- Estado de Proyecto: En concstrucción
+- Estado de Proyecto: En construcción
 
 Para ejecutar el sistema, debes poner:
 
